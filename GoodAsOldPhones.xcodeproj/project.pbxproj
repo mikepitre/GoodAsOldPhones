@@ -14,6 +14,7 @@
 		5DD946321C248BD200BE2A3F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DD946301C248BD200BE2A3F /* Main.storyboard */; };
 		5DD946371C248BD200BE2A3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DD946351C248BD200BE2A3F /* LaunchScreen.storyboard */; };
 		8FC0D0E11C2797D900C112DD /* ProductsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC0D0E01C2797D900C112DD /* ProductsTableViewController.swift */; };
+		8FC0D0E31C29A56800C112DD /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC0D0E21C29A56800C112DD /* Product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5DD946361C248BD200BE2A3F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5DD946381C248BD200BE2A3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8FC0D0E01C2797D900C112DD /* ProductsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsTableViewController.swift; sourceTree = "<group>"; };
+		8FC0D0E21C29A56800C112DD /* Product.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				5D69C0961C25D535009A8E92 /* ProductViewController.swift */,
 				5D69C0981C25DB2A009A8E92 /* ContactViewController.swift */,
 				8FC0D0E01C2797D900C112DD /* ProductsTableViewController.swift */,
+				8FC0D0E21C29A56800C112DD /* Product.swift */,
 			);
 			path = GoodAsOldPhones;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				5D69C0971C25D535009A8E92 /* ProductViewController.swift in Sources */,
 				8FC0D0E11C2797D900C112DD /* ProductsTableViewController.swift in Sources */,
+				8FC0D0E31C29A56800C112DD /* Product.swift in Sources */,
 				5DD9462D1C248BD200BE2A3F /* AppDelegate.swift in Sources */,
 				5D69C0991C25DB2A009A8E92 /* ContactViewController.swift in Sources */,
 			);
